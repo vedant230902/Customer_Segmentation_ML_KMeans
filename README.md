@@ -1,0 +1,1 @@
+ML project that groups customers based on their spending and annual income in a mall. The project is trained using K-Means clustering which is an unsupervised learning alearning algorithm used for clustering data into groups.
