@@ -17,7 +17,7 @@ The elbow plot is a visualization used to identify the optimal number of cluster
 **Getting Started**
 
 1. Fork the repository
-2. CLone the repository 
+2. Clone the repository 
 https://github.com/{your_github_id}/Customer_Segmentation_ML_KMeans.git
 3. Open colab and copy paste the code step by step
 4. Run it
